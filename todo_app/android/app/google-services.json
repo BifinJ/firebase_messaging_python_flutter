@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333342804646",
+    "project_id": "migonotification",
+    "storage_bucket": "migonotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333342804646:android:9d6bd105435bb20a494267",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqc9tLqd5CQ1IvJ8KkMjsNv3dBRP8PTs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333342804646:android:080a4fc087231868494267",
+        "android_client_info": {
+          "package_name": "migo.todo.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqc9tLqd5CQ1IvJ8KkMjsNv3dBRP8PTs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
